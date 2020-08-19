@@ -10,7 +10,7 @@ RPi sends data from keyboard with library pygame.
 
 ## Video Result
 
-![](/Images/ALU_Decimal.PNG)
+![](/Images/ytimage.png)
 
 
 [Raspberry Pi - Arduino Car](https://www.youtube.com/watch?v=Qu4i57MjldU)
